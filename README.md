@@ -19,7 +19,7 @@ Before you can run this script, you need to have Python installed on your machin
 
 You can install these dependencies using pip:
 ```bash
-  pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 
@@ -29,7 +29,7 @@ You can install these dependencies using pip:
 1. Place the PDF file you want to process in the same directory as the script or specify the path to the file.
 2. Run the script with Python:
 ```bash
-  python main.py
+python main.py
 ```
 
 
