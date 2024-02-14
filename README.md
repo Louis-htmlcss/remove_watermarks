@@ -22,8 +22,6 @@ You can install these dependencies using pip:
 pip install -r requirements.txt
 ```
 
-
-
 ## Usage 🚀
 
 1. Place the PDF file you want to process in the same directory as the script or specify the path to the file.
@@ -31,7 +29,6 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-
 
 3. The script will process the PDF, remove the most frequent image (watermark), and save a modified version of the PDF in the same directory.
 
